@@ -6,4 +6,4 @@ License: GPLv2
 URL: https://github.com/peppermintos/ice
 Group: System
 Packager: TheLinuxKid
-BuildRoot: ~/rpmbuild/
+BuildRoot: /rpmbuild/
